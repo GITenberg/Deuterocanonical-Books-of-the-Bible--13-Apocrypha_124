@@ -1,4 +1,4 @@
-Project Gutenberg's Deuteronomical Books of the Bible, by Anonymous
+Project Gutenberg's Deuterocanonical Books of the Bible, by Anonymous
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -6,7 +6,7 @@ re-use it under the terms of the Project Gutenberg License included
 with this eBook or online at www.gutenberg.net
 
 
-Title: Deuteronomical Books of the Bible
+Title: Deuterocanonical Books of the Bible
        Apocrypha
 
 Author: Anonymous
@@ -97,7 +97,7 @@ The Books Presented Below Use These Titles
 
 
   The First Book of Esdras
-  The Second Book of Esdras Esdras [sometimes Fourth Book of Ezra]
+  The Second Book of Esdras [sometimes Fourth Book of Ezra]
   The Book of Tobit
   The Book of Judith
   The Rest of the Chapters of the Book of Esther
@@ -119,7 +119,7 @@ The Books Presented Below Use These Titles
 Here is the table of contents in the order presented below:
 
   The First Book of Esdras
-  The Second Book of Esdras Esdras [sometimes Fourth Book of Ezra]
+  The Second Book of Esdras [sometimes Fourth Book of Ezra]
   The Greek Additions to Esther
   The First Book of the Maccabees
   The Second Book of the Maccabees
@@ -17205,7 +17205,7 @@ draw to our end, and had no sign of virtue to shew; but were
 consumed in our own wickedness.
 
 Wis 5:14
-For the hope of the Godly is like dust that is blown away
+For the hope of the ungodly is like dust that is blown away
 with the wind; like a thin froth that is driven away with the
 storm; like as the smoke which is dispersed here and there with
 a tempest, and passeth away as the remembrance of a guest that
@@ -17512,7 +17512,7 @@ workman than she?
 Wis 8:7
 And if a man love righteousness her labours are virtues: for
 she teacheth temperance and prudence, justice and fortitude:
-which are such things, as en can have nothing more profitable in
+which are such things, as men can have nothing more profitable in
 their life.
 
 Wis 8:8
@@ -18691,7 +18691,7 @@ way to the living.
 Wis 18:24
 For in the long garment was the whole world, and in the four
 rows of the stones was the glory of the fathers graven, and thy
-Majesty upon the daidem of his head.
+Majesty upon the daidem.
 
 Wis 18:25
 Unto these the destroyer gave place, and was afraid of them:
@@ -20590,7 +20590,7 @@ He that wanteth understanding will think upon vain things:
 and a foolish man erring imagineth follies.
 
 Sir 16:24
-by son, hearken unto me, and learn knowledge, and mark my
+My son, hearken unto me, and learn knowledge, and mark my
 words with thy heart.
 
 Sir 16:25
@@ -20638,7 +20638,7 @@ over beasts and fowls.
 Sir 17:5
 They received the use of the five operations of the Lord, and
 in the sixth place he imparted them understanding, and in the
-seventh speech, an interpreter of the cogitations thereof.]
+seventh speech, an interpreter of the cogitations thereof.
 
 Sir 17:6
 Counsel, and a tongue, and eyes, ears, and a heart, gave he
@@ -20885,7 +20885,7 @@ hast nothing in thy purse: for thou shalt lie in wait for thine
 own life, and be talked on.
 
 Sir 19:1
-A labouring man that A is given to drunkenness shall not be
+A labouring man that is given to drunkenness shall not be
 rich: and he that contemneth small things shall fall by little
 and little.
 
@@ -21138,7 +21138,7 @@ Better is he that hideth his folly than a man that hideth his
 wisdom.
 
 Sir 20:32
-Necessary patience in seeking ing the Lord is better than he
+Necessary patience in seeking the Lord is better than he
 that leadeth his life without a guide.
 
 Sir 21:1
@@ -21349,7 +21349,7 @@ for there may be a returning [to favour.]
 Sir 22:22
 If thou hast opened thy mouth against thy friend, fear not;
 for there may be a reconciliation: except for upbraiding, or
-pride, or disclosing of secrets, or a treacherous wound: for for
+pride, or disclosing of secrets, or a treacherous wound: for
 these things every friend will depart.
 
 Sir 22:23
@@ -21442,7 +21442,7 @@ Sir 23:14
 Remember thy father and thy mother, when thou sittest among
 great men. Be not forgetful before them, and so thou by thy
 custom become a fool, and wish that thou hadst not been born,
-and curse they day of thy nativity.
+and curse the day of thy nativity.
 
 Sir 23:15
 The man that is accustomed to opprobrious words will never be
@@ -23827,7 +23827,7 @@ It compasseth the heaven about with a glorious circle, and
 the hands of the most High have bended it.
 
 Sir 43:13
-By his commandment he maketh the snow to fall aplace, and
+By his commandment he maketh the snow to fall apace, and
 sendeth swiftly the lightnings of his judgment.
 
 Sir 43:14
@@ -24057,7 +24057,7 @@ the children of his people;
 
 Sir 45:10
 With an holy garment, with gold, and blue silk, and purple,
-the work of the embroidere, with a breastplate of judgment, and
+the work of the embroiderer, with a breastplate of judgment, and
 with Urim and Thummim;
 
 Sir 45:11
@@ -24674,7 +24674,7 @@ tongue, and from the lips that forge lies, and has been mine
 helper against mine adversaries:
 
 Sir 51:3
-And hast delivered me, according to the multitude of they
+And hast delivered me, according to the multitude of thy
 mercies and greatness of thy name, from the teeth of them that
 were ready to devour me, and out of the hands of such as sought
 after my life, and from the manifold afflictions which I had;
@@ -24716,7 +24716,7 @@ thanksgiving; and so my prayer was heard:
 Sir 51:12
 For thou savedst me from destruction, and deliveredst me from
 the evil time: therefore will I give thanks, and praise thee,
-and bless they name, O Lord.
+and bless thy name, O Lord.
 
 Sir 51:13
 When I was yet young, or ever I went abroad, I desired wisdom
@@ -25078,7 +25078,7 @@ O Lord Almighty, God of Israel, the soul in anguish the
 troubled spirit, crieth unto thee.
 
 Bar 3:2
-Hear, O Lord, and have mercy; ar thou art merciful: and have
+Hear, O Lord, and have mercy; as thou art merciful: and have
 pity upon us, because we have sinned before thee.
 
 Bar 3:3
@@ -25703,7 +25703,7 @@ Therefore it is better to be a king that sheweth his power,
 or else a profitable vessel in an house, which the owner shall
 have use of, than such false gods; or to be a door in an house,
 to keep such things therein, than such false gods, or a pillar
-of wood in a a palace, than such false gods.
+of wood in a palace, than such false gods.
 
 EpJer 6:60
 For sun, moon, and stars, being bright and sent to do their
@@ -26611,7 +26611,7 @@ in a moment before his face.
 
 
 
-End of Project Gutenberg's Deuteronomical Books of the Bible, by Anonymous
+End of Project Gutenberg's Deuterocanonical Books of the Bible, by Anonymous
 
 *** END OF THIS PROJECT GUTENBERG EBOOK DEUTERONOMICAL BOOKS OF THE BIBLE ***
 
